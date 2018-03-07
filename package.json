@@ -1,0 +1,29 @@
+{
+  "name": "decentralised_car_marketplace",
+  "version": "1.0.0",
+  "description": "decentralised car marketplace on ethereum blockchain",
+  "main": "app.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Quillhash/decentralised_car_marketplace.git"
+  },
+  "keywords": [
+    "node.js",
+    "truffle",
+    "ethereum",
+    "smart",
+    "contracts"
+  ],
+  "author": "preetam rao <raopreetam007@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Quillhash/decentralised_car_marketplace/issues"
+  },
+  "homepage": "https://github.com/Quillhash/decentralised_car_marketplace#readme"
+}
